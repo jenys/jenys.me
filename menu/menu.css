@@ -1,0 +1,95 @@
+body {
+	font-family: 'Bookman Old Style', serif;
+	background: #dee;
+	padding: 0;
+	margin: 0;
+}
+
+.clear {
+	clear:both;
+}
+
+nav {
+	background: #916b81;
+	height: 2.3em;
+}
+
+ul, li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+ul {
+	background: #d17b81;
+	height: 2em;
+	width: 100%;
+}
+
+li {
+	position: relative;
+}
+
+li a {
+	display: block;
+	line-height: 2em;
+	padding: 0 1em;
+	text-decoration: none;
+	color: white;
+}
+
+li a:hover {
+	background: #916b81;
+	height: 2em;
+	padding-top: .3em;
+	position: relative;
+	top: -.3em;
+	border-radius: .5em .5em 0 0;
+}
+
+.current, a:hover.current {
+	background: #916b81;
+	color: #eee;
+	padding-top: .3em;
+	position: relative;
+	top: -.3em;
+	border-radius: .5em .5em 0 0;
+	cursor: default;
+}
+
+ul.submenu {
+	float: none;
+	background: #916b81;
+	width: auto;
+	height: auto;
+	position: absolute;
+	top: 2em;
+	left: -9000em;
+}
+
+ul.submenu li {
+	float: none;
+}
+
+.topmenu li:hover ul {
+	left: 0;
+}
+
+ul.submenu li a {
+	border-bottom: 1px solid white;
+	padding: .2em 1em;
+	white-space: nowrap;
+}
+
+ul.submenu li:last-child a {
+	border-bottom: none;
+}
+
+ul.submenu li a:hover {
+	background: #d17b81;
+	height: 2em;
+	padding-top: .2em;
+	top: 0;
+	border-radius: 0;
+}
