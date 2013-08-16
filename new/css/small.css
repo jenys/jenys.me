@@ -1,0 +1,54 @@
+.header {
+	max-width: 500px;
+	height: 125px;
+	background: #3C7C54;
+	border-radius: 6px 6px 6px 6px;
+	padding-top: 25px;
+}
+
+.logo {
+	width: 30%;
+	height: 100px;
+	background: #fff;
+	border-radius: 6px 6px 6px 6px;
+	margin-left: 1%;
+	float: left;
+}
+
+.banner {
+	width: 60%;
+	height: 100px;
+	background: #fff;
+	border-radius: 6px 6px 6px 6px;
+	margin-left: 39%;
+}
+
+.content {
+	max-width: 500px;
+	height: 700px;
+	background: #404975;
+	margin-top: 30px;
+	border-radius: 6px 6px 6px 6px;
+	padding-top: 25px;
+}
+
+.left {
+	width: 30%;
+	height: 650px;
+	background: #fff;
+	border-radius: 6px 6px 6px 6px;
+	margin-left: 1%;
+	float: left;
+}
+
+.right {
+	background: #fff;
+	width: 60%;
+	height: 650px;
+	border-radius: 6px 6px 6px 6px;
+	margin-left: 39%;
+}
+
+.clear {
+	clear: both;
+}

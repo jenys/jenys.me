@@ -1,8 +1,9 @@
 .header {
-	min-width: 800px;
-	height: 150px;
+	max-width: 100%;
+	height: 125px;
 	background: #3C7C54;
 	border-radius: 6px 6px 6px 6px;
+	padding-top: 25px;
 }
 
 .logo {
@@ -12,7 +13,6 @@
 	border-radius: 6px 6px 6px 6px;
 	margin-left: 1%;
 	float: left;
-	margin-top: 25px;
 }
 
 .banner {
@@ -21,34 +21,32 @@
 	background: #8BDAA8;
 	border-radius: 6px 6px 6px 6px;
 	margin-left: 39%;
-	margin-top: 25px;
 }
 
 .content {
-	min-width: 800px;
+	max-width: 100%;
 	height: 700px;
 	background: #404975;
 	margin-top: 30px;
 	border-radius: 6px 6px 6px 6px;
+	padding-top: 25px;
 }
 
 .left {
 	width: 30%;
-	height: 500px;
+	height: 650px;
 	background: #68B3CF;
 	border-radius: 6px 6px 6px 6px;
 	margin-left: 1%;
 	float: left;
-	margin-top: 25px;
 }
 
 .right {
 	background: #88BBCF;
 	width: 60%;
-	height: 500px;
+	height: 650px;
 	border-radius: 6px 6px 6px 6px;
 	margin-left: 39%;
-	margin-top: 25px;
 }
 
 .clear {
