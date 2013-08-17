@@ -184,11 +184,26 @@
 }
 
 h1 {
+	font-size: 1.4em;
 	margin: 19px 0px 10px 0px;
+	height: 1.4em;
 }
 
 h2 {
 	margin-top: 205px;
+	font-size: 1.2em;
+}
+
+h3 {
+	font-size: 1em;
+}
+
+h4 {
+	font-size: .8em;
+}
+
+.right p {
+	font-size: .8em;
 }
 
 .download {
@@ -290,8 +305,8 @@ h2 {
 }
 
 .links ul {
-	font-size: .9em;
-	width: 340px;
+	font-size: .8em;
+	width: 300px;
 }
 
 .footer {
