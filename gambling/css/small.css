@@ -88,10 +88,10 @@
 	background: url("../img/button.png") no-repeat scroll 0px 24px transparent;
 	height: 70px;
 	width: 124px;
-	display: inline;
+	display: block;
 	float: left;
 	padding-top: 35px;
-	margin: -13px 0px 0px 5px;
+	margin: -10px 0px 0px 4px;
 	padding-left: 10px;
 	font-family: Arial;
 	text-transform: uppercase;
