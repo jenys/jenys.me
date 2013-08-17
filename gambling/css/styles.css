@@ -1,4 +1,6 @@
 body {
 	background: #600c0e url(../img/background.png) repeat-x 0px 0px;
 	font-size: 14px;
+	margin: 0;
+	padding: 0;
 }
