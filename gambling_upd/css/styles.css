@@ -691,7 +691,8 @@ a.mailf {
 		display: inline;
 		float: left;
 		margin: -24px 0px 0px 73px;
-		padding: 31px 0px 0px 9px;
+		padding-top: 31px;
+		padding-left: 9px;
 		font-family: Arial;
 		text-transform: uppercase;
 		font-size: .8em;
