@@ -618,9 +618,9 @@ a.mailf {
 	.banner {
 		background: url("../img/banner_tiny.png") no-repeat scroll 0 0 transparent;
 		width: 291px;
-		height: 90px;
+		height: 50px;
 		border-radius: 9px 9px 9px 9px;
-		margin: 0 auto 15px auto;
+		margin: 45px auto 15px auto;
 	}
 
 	.check {
@@ -628,15 +628,15 @@ a.mailf {
 		height: 39px;
 		width: 36px;
 		float: left;
-		margin: 18px 0px 0px 13px;
+		margin: 5px 0px 0px 13px;
 	}
 
 
 	.w {
 		float: left;
 		display: inline;
-		font-size: 2em;
-		margin-top: 18px;
+		font-size: 1.4em;
+		margin-top: 13px;
 		font-weight: bold;
 		font-family: 'Times New Roman';
 		padding-right: 2px;
@@ -648,8 +648,8 @@ a.mailf {
 	.g {
 		float: left;
 		display: inline;
-		font-size: 1.7em;
-		margin-top: 22px;
+		font-size: 1.1em;
+		margin-top: 17px;
 		padding: 0;
 		font-family: Arial;
 		color: #330001;
@@ -662,14 +662,14 @@ a.mailf {
 	.s {
 		float: left;
 		display: inline;
-		font-size: 0.9em;
+		font-size: 0.6em;
 		line-height: .9em;
 		font-family: Arial;
 		color: #330001;
 		text-shadow: 1px 1px 1px #ff8d86, 0 0px 0 #ff8d86;
 		text-transform: uppercase;
 		font-weight: bold;
-		margin-top: 24px;
+		margin-top: 21px;
 		padding: 0;
 	}
 
@@ -685,17 +685,17 @@ a.mailf {
 	}
 
 	.button {
-		background: url("../img/button_tiny.png") no-repeat scroll 0px 24px transparent;
-		height: 30px;
-		width: 76px;
-		display: inline;
+		background: url("../img/button.png") no-repeat scroll 0px 24px transparent;
+		height: 21px;
+		width: 66px;
+		display: block;
 		float: left;
-		margin: -24px 0px 0px 73px;
-		padding-top: 31px;
-		padding-left: 9px;
+		padding-top: 35px;
+		margin: -10px 0px 0px 4px;
+		padding-left: 10px;
 		font-family: Arial;
 		text-transform: uppercase;
-		font-size: .8em;
+		font-size: 1.4em;
 		text-shadow: -2px -2px 0px #5c0c0e, 0 0px 0 #5c0c0e;
 
 	}
