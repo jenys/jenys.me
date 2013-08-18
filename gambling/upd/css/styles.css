@@ -685,7 +685,7 @@ a.mailf {
 	}
 
 	.button {
-		background: url("../img/button.png") no-repeat scroll 0px 24px transparent;
+		background: url("../img/button_tiny.png") no-repeat scroll 0px 24px transparent;
 		height: 21px;
 		width: 66px;
 		display: block;
@@ -695,7 +695,7 @@ a.mailf {
 		padding-left: 10px;
 		font-family: Arial;
 		text-transform: uppercase;
-		font-size: 1.4em;
+		font-size: 0.8em;
 		text-shadow: -2px -2px 0px #5c0c0e, 0 0px 0 #5c0c0e;
 
 	}
